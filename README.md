@@ -77,10 +77,3 @@ EAR = (||p2 - p6|| + ||p3 - p5||) / (2 * ||p1 - p4||)
 <p>This project is licensed under the <strong>MIT License</strong>. See the <code>LICENSE</code> file for more details.</p>
 
 <hr>
-
-<h2>📬 Contact</h2>
-<p>
-  Created with 💡 by <strong>Your Name</strong><br>
-  📧 Email: your.email@example.com<br>
-  🌐 GitHub: <a href="https://github.com/yourusername">yourusername</a>
-</p>
