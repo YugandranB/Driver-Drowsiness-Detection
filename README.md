@@ -7,12 +7,9 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 2rem;">
 
-  <h1 align="center">🚗 Driver Drowsiness Detection System 😴</h1>
-  <p align="center">
-    <img src="demo.gif" alt="Driver Drowsiness Demo" width="500"/><br/>
-    <strong>Real-time alert system using facial landmark detection & audio warning</strong>
-  </p>
-
+ <h1 align="center">🚗 Driver Drowsiness Detection System 😴</h1>
+<p align="center"><strong>Real-time alert system using facial landmark detection & audio warning</strong></p>
+<hr>
   <hr/>
 
   <h2>📌 Overview</h2>
