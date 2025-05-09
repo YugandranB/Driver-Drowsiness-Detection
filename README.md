@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Driver Drowsiness Detection System</title>
+
 </head>
 <body style="font-family: Arial, sans-serif; margin: 20px; line-height: 1.6;">
 
